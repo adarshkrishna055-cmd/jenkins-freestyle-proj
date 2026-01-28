@@ -8,3 +8,26 @@
 #### 3. start nodeapp project
 
 
+
+#### 4. Run your project
+
+
+```
+sudo apt install nodejs -y
+```
+
+```
+sudo apt install npm -y
+```
+
+```
+npm install
+```
+
+```
+node app.js
+```
+
+
+
+------------------------------------
