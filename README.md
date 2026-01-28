@@ -21,13 +21,14 @@ sudo apt install npm -y
 ```
 
 ```
-npm install
+sudo npm install
 ```
 
 ```
-node app.js
+sudo node app.js
 ```
 
 
 
 ------------------------------------
+
